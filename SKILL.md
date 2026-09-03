@@ -1,10 +1,10 @@
 ---
 slug: qianjin-resume-rewriter
-displayName: 项目叙事式简历改写引擎
-summary: "项目叙事式简历改写引擎 - 把职责罗列式简历改写成「业务背景→核心目标→落地动作→解决痛点→量化成果」三段式，破解 HR 反馈的'看不到解决问题的能力'"
+displayName: 简历改写专家
+summary: "简历改写专家 - 把职责罗列式简历改写成「业务背景→核心目标→落地动作→解决痛点→量化成果」三段式，破解 HR 反馈的'看不到解决问题的能力'"
 license: MIT
 name: qianjin-resume-rewriter
-version: 1.0.0
+version: 1.0.1
 author: qianjin
 description: This skill should be used when the user wants to rewrite or optimize a resume/CV into the "project-narrative" format (项目背景/项目职责/项目成果 three-part structure) that demonstrates problem-solving ability — especially when HR feedback says the resume "看不到解决问题的能力/只写了职责没有成果", or when converting duty-list style resumes into 业务背景→核心目标→落地动作→解决痛点→量化成果 narratives. Also covers value quantification (价值量化), short-stint merging (短期经历合并), data consistency checks, and docx delivery. Triggers on 简历改写, 简历改写专家, 简历优化, 项目叙事, 突出解决问题能力, resume rewrite, resume rewriter, STAR resume.
 category: 求职职业

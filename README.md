@@ -1,4 +1,4 @@
-# qianjin-resume-rewriter
+# qianjin-resume-rewriter · 简历改写专家
 
 把**"职责罗列式"简历**改写成**"项目叙事式"简历**的 WorkBuddy 技能——让招聘方一眼看到你「在 XX 业务背景下，围绕 XX 核心目标，通过 XX 落地动作，解决 XX 业务痛点，达成 XX 量化成果」。
 
