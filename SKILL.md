@@ -6,7 +6,8 @@ license: MIT
 name: qianjin-resume-rewriter
 version: 1.1.0
 author: qianjin
-description: This skill rewrites/optimizes a resume/CV around a TARGET role using a six-step method — clarify goal → filter experiences → package experiences (project-narrative) → align results to the JD → highlight problem-solving → polish format. It turns duty-list resumes ("负责 XX、参与 XX") into "business background → core goal → actions → pain solved → quantified results" narratives that make the candidate's problem-solving ability visible. Use when HR feedback says the resume "看不到解决问题的能力/只有职责没有成果", or for 简历改写/简历优化/项目叙事/突出解决问题能力/对齐JD/筛选经历/格式优化/resume rewrite/STAR resume. Also covers value quantification (价值量化五锚点), short-stint merging, data-consistency checks, and docx delivery.
+description: "围绕目标岗位改写简历：明确目标→筛选经历→项目化包装→对齐 JD→量化成果→格式优化，把「负责XX、参与XX」的职责罗列，改写成「业务背景→核心目标→动作→解决的痛点→量化成果」的叙事，让解决问题的能力被看见。"
+
 category: 求职职业
 platforms:
   - workbuddy
