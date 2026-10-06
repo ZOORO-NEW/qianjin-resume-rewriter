@@ -4,7 +4,7 @@ displayName: 简历改写专家
 summary: "简历改写专家 - 围绕目标岗位，用「明确目标→筛选经历→包装经历→对齐工作结果→突出解决问题能力→格式优化」六步法，把职责罗列式简历改写成让 HR 一眼看到解题链路的简历。"
 license: MIT
 name: qianjin-resume-rewriter
-version: 1.1.0
+version: 1.1.1
 author: qianjin
 description: 围绕目标岗位改写简历：明确目标→筛选经历→项目化包装→对齐 JD→量化成果→格式优化，把「负责XX、参与XX」的职责罗列，改写成「业务背景→核心目标→动作→解决痛点→量化结果」的解题叙事，让 HR 一眼看到解决问题的能力。同时覆盖价值量化五锚点、短履历合并与数据一致性校验。
 category: 求职职业
